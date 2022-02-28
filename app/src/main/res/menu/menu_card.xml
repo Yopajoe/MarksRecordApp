@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dodaj_ocenu"
+        android:title="Dodaj ocenu"/>
+    <item android:id="@+id/obrisi_ocenu"
+        android:title="Obrisi ocenu"/>
+    <item android:id="@+id/obrisi_predmet"
+        android:title="Obrisi predmet"/>
+</menu>
